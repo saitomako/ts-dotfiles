@@ -93,3 +93,8 @@ cask "transmit"
 cask "visual-studio-code"
 cask "vlc"
 cask "wireshark"
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Kindle", id: 405399194
+mas "LINE", id: 539883307
+mas "Microsoft Remote Desktop", id: 1295203466
